@@ -1,0 +1,22 @@
+{
+  "name": "telegraph_copy",
+  "version": "1.0.0",
+  "description": "Copy of https://telegra.ph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotanskiy/telegraph_copy.git"
+  },
+  "keywords": [
+    "telegraph"
+  ],
+  "author": "Alexey Efimenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kotanskiy/telegraph_copy/issues"
+  },
+  "homepage": "https://github.com/kotanskiy/telegraph_copy#readme"
+}
